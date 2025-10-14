@@ -1,2 +1,2 @@
 # catCare
-Website to help people become better cat owner
+Website to help people become better cat owner. MEOW!
